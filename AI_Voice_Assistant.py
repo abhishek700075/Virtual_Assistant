@@ -1,5 +1,5 @@
 import speech_recognition as sr
-# import pyaudio
+import pyaudio
 import time
 import pyttsx3
 import pywhatkit
